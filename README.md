@@ -1,4 +1,4 @@
-# Design-And-Analysis-of-Cache-Architecture
+# Design And Analysis of Cache Architecture
 
 **📌 Project Overview**
 
